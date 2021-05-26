@@ -26,7 +26,7 @@ $ cd Projeto_Calculadora_React
 # Instalar as dependências
 $ npm install || yarn install
 #Rode o projeto 
-yarn start
+yarn start || npm start
 
 ```
 ---
