@@ -15,7 +15,7 @@
 
 .button:active {
     background-color: #ccc;
-
+    
 }
 
 .button.double {
@@ -26,11 +26,10 @@
     grid-column: span 3 ;
 }
 
-button.operation{
+.button.color{
     background-color: #fa8231;
     color: #fff;
 }
-
-.button.operation:active{
+.button.color{
     background-color: #fa8231cc;
 }
