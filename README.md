@@ -31,4 +31,4 @@ yarn start || npm start
 ```
 ---
 
-![Captura de tela de 2021-05-26 14-20-29](https://user-images.githubusercontent.com/73719899/119704595-34e30b80-be2e-11eb-8bed-0eac62567afd.png)
+![Captura de tela de 2021-05-30 18-09-13](https://user-images.githubusercontent.com/73719899/120120221-49970a80-c172-11eb-85c2-eb1f6d1e00d9.png)
