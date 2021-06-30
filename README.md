@@ -22,7 +22,9 @@ Esse repositorio é referente ao curso Web Js com o intuito de colocar em práti
 #Clonando o repositorio 
 $ git clone https://github.com/SamiraFreitas/Projeto_Calculadora_React
 #Entrar no diretorio 
-$ cd Projeto_Calculadora_React
+$ cd Projeto_Calculadora_React_master
+#Entrar na pasta 
+$ cd calculadora
 # Instalar as dependências
 $ npm install || yarn install
 #Rode o projeto 
