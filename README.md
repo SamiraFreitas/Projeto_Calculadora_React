@@ -1,3 +1,6 @@
+
+![Captura de tela de 2021-05-30 18-09-13](https://user-images.githubusercontent.com/73719899/120120221-49970a80-c172-11eb-85c2-eb1f6d1e00d9.png)
+
 ## 📜 Índice
 - [📜 Índice](#-índice)
 - [📝 Sobre](#-sobre)
@@ -8,14 +11,14 @@
 ## 📝 Sobre 
 Esse repositorio é referente ao curso Web Js com o intuito de colocar em prática todo conhecimento básico de Front_end React. 
 
----
+
 ## 👾 Tecnologias Utilizadas 
 - HTML  
 - Js
 - CSS
 - React
 
-  ---
+
 ## 💻 Como baixar o projeto 
 
 ```bash
@@ -31,6 +34,5 @@ $ npm install || yarn install
 yarn start || npm start
 
 ```
----
 
-![Captura de tela de 2021-05-30 18-09-13](https://user-images.githubusercontent.com/73719899/120120221-49970a80-c172-11eb-85c2-eb1f6d1e00d9.png)
+
